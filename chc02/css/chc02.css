@@ -99,7 +99,7 @@ FONT {
 }
 
 .background-t {
-    background-image: url('https://www.idweixun.com/chc02/images/chc02.jpg');
+    /* background-image: url('https://www.idweixun.com/chc02/images/chc02.jpg'); */
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;
