@@ -1,8 +1,8 @@
 #t-app FONT {
     face: "微软雅黑";
     color: #FFFFFF;
-    -webkit-text-stroke: 0.5px #e6822d;
-    text-stroke: 0.5px #e6822d;
+    -webkit-text-stroke: 0.5px #000000;
+    text-stroke: 0.5px #000000;
     text-shadow: 1px 1px 0px #000000;
 }
 
@@ -130,7 +130,7 @@
 }
 
 .btb {
-    background-color: #e27f48;
+    /* background-color: #e27f48; */
     text-align: center;
     border: 1px solid #000000;
 }
