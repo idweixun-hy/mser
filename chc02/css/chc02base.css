@@ -1,9 +1,12 @@
 #t-app FONT {
     face: "微软雅黑";
-    color: #FFFFFF;
-    -webkit-text-stroke: 0.5px #000000;
-    text-stroke: 0.5px #000000;
-    text-shadow: 1px 1px 0px #000000;
+    color: #000000;
+}
+
+.zt FONT {
+    font-family: "楷体";
+    color: #000000;
+    font-size: 12px;
 }
 
 .snow-container {
@@ -103,7 +106,7 @@
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 1536px
+    height: 910px
 }
 
 #bg-video {
@@ -146,8 +149,8 @@
 }
 
 .lfp {
-    line-height: 20px;
-    font-size: 16px;
+    line-height: 8px;
+    font-size: 12px;
 }
 
 .plfm {
