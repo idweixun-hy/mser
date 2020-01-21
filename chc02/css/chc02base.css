@@ -6,7 +6,7 @@
 .zt FONT {
     font-family: "楷体";
     color: #000000;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .snow-container {
@@ -124,8 +124,12 @@
 }
 
 #t-app a:hover {
-    color: #8245b5;
+    color: red;
     text-decoration: underline;
+}
+
+#t-app a:hover FONT {
+    color: red;
 }
 
 .bs {
