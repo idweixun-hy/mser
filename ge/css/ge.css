@@ -71,292 +71,292 @@ content: "试音通过以后为了方便统计名单，会拉你进剧组群。�
     color: black;
 }
 
-.testhzhu::before{
+.u::before{
     content: "主役：";
     color: black;
 }
 
-.testhzhu1::before{
+.u1::before{
     content: "哥哥：男cv，莫辰 （强势的青年音）差不多二十到二十五岁之间的感觉【";
     color: black;
 }
 
-.testhzhus::before{
+.us::before{
     content: "注：此角色有激情戏，但是不需要H，只要台词表现出那种气息，尺度完全由自己把握。";
     color: black;
 }
 
-.testhzhu1e::before{
+.u1e::before{
     content: "】";
     color: black;
 }
 
-.testhzhu11::before{
+.u11::before{
     content: "冷漠，内心强大，做事有头绪，不希望看见自己的弟弟颓废，为弟弟赚钱，艰辛。虽然日常暴躁，但是很爱自己的弟弟，后期因为病痛以及弟弟的不理解心灰意冷。";
     color: black;
 }
 
-.testhzhu111::before{
+.u111::before{
     content: "1.	【经过被李洋不断骚扰的厌烦】莫辰：（破口大骂）你神经病啊！老子都说不干了，你还要纠缠到什么时候，你不嫌烦，我都嫌腻了！";
     color: black;
 }
 
-.testhzhu112::before{
+.u112::before{
     content: "2.	【因为病痛，强忍着伤痛，莫辰加上对自己的弟弟特别失望，生气】莫辰：（强忍不适，非常生气）老子叫你给我出来！你他妈连这点勇气都没有！有胆子骗钱现在倒跟个孬种一样！给老子出来！（依旧没有回应）";
     color: black;
 }
 
-.testhzhu113::before{
+.u113::before{
     content: "3.	【因为疼痛而虚弱】莫辰：（虚弱）大姐！您放心……您那钱盒子没被拿走，（解释）就是有几个混混要保护费，我不肯交，就被打晕了……";
     color: black;
 }
 
-.testhzhu2::before{
+.u2::before{
     content: "弟弟；男cv，莫晓程（少年音）在十七十八岁左右";
     color: red;
 }
 
-.testhzhu21::before{
+.u21::before{
     content: "懦弱，无能，因为同学们的疏远，同学们的欺负，自己更加的孤僻。开始一直认为是哥哥的错，其实内心知道哥哥是爱自己的，因为别人的闲话，自己一直都是无地自容的，后期，认识自己错误，变得听话懂事";
     color: red;
 }
 
-.testhzhu211::before{
+.u211::before{
     content: "1.	【被哥哥是gay的负面影响逼迫走向极端，内心崩溃，疯魔，对哥哥的厌恶发散要淋漓尽致】莫晓程：（疯狂）怎么？你还好意思问？还不是你害的，要不是你我现在能变成这样吗？这一切的一切都因为是你！（强调）你！（越说越疯狂）你知道被人说闲话的滋味多不好受吗？（渐渐哭腔）你知道被那些混蛋欺负有多痛苦吗？我现在遭受的一切，都是你害的！你以为我想的吗？我连一个朋友都没有……（崩溃）我求求你，放过我吧！";
     color: red;
 }
 
-.testhzhu212::before{
+.u212::before{
     content: "2.	【这里是莫晓程的把柄还在牛大宝手里，希望牛大宝可以网开一面，表示一种恳求，焦急，懦弱】莫晓程：（焦急）诶，大宝哥，我……我那照片能不能……";
     color: red;
 }
 
-.testhxie::before{
+.e::before{
     content: "协役：";
     color: black;
 }
 
-.testhxie1::before{
+.e1::before{
     content: "李洋：男cv，莫辰的朋友（纨绔子弟，痞气攻音）在二十五岁到二十八岁左右【";
     color: #00b050;
 }
 
-.testhxies::before{
+.es::before{
     content: "注：此角色有激情戏，但是不需要H，只要台词表现出那种气息，尺度完全由自己把握。";
     color: #00b050;
 }
 
-.testhxie1e::before{
+.e1e::before{
     content: "】";
     color: #00b050;
 }
 
-.testhxie11::before{
+.e11::before{
     content: "有钱人，一直喜欢莫辰，莫辰却不肯同意 ，看似轻浮，吊儿郎当，但是真的喜欢莫辰，心系莫辰但口是心非，喜欢开玩笑。";
     color: #00b050;
 }
 
-.testhxie111::before{
+.e111::before{
     content: "1.	【对着莫辰说的话】李洋：（笑，带点宠）满嘴脏话……你这样的人谁会喜欢？";
     color: #00b050;
 }
 
-.testhxie112::before{
+.e112::before{
     content: "2.	【本来是准备给莫辰告白，开门却看见凝重的场景】李洋：（高兴）莫辰，你猜不到，哥今天给你送啥来了……（凝滞）你们……你们怎么都哭丧着脸？";
     color: #00b050;
 }
 
-.testhxie2::before{
+.e2::before{
     content: "牛大宝：男cv，莫晓程的同学（每个班都会有的坏男孩音）十七十八岁左右";
     color: #002060;
 }
 
-.testhxie21::before{
+.e21::before{
     content: "仗势欺人，霸道，喜欢拿莫晓程开玩笑，讨厌莫晓程。因为对杨娟娟有好感，但是看出莫晓程也喜欢杨娟娟，所以很讨厌他。";
     color: #002060;
 }
 
-.testhxie211::before{
+.e211::before{
     content: "1.	【对莫晓程说的话，就是看莫晓程不爽，手上拿着莫晓程准备给杨娟娟的情书】牛大宝：嘿，你不老实了吧？还真是给杨娟娟写的呀？（凶狠）我还以为你和你哥一样喜欢男人呢！";
     color: #002060;
 }
 
-.testhxie3::before{
+.e3::before{
     content: "刘大姐：女cv，莫辰的老板娘（中年妇女音）三四十岁左右";
     color: #00b0f0;
 }
 
-.testhxie31::before{
+.e31::before{
     content: "爱占小便宜，抠门，爱财如命，恨不得莫辰就是请来不用给工钱的。";
     color: #00b0f0;
 }
 
-.testhxie311::before{
+.e311::before{
     content: "1.	【这里要体现出刘大姐的抠门，舍不得吧钱给莫辰】刘大姐：（变脸色）哎，你也知道的，最近店里吃饭的人越来越少，大姐最近也困难，钱也没多少（犹豫片刻），要不这样吧，我这里有三百，你先拿去，剩下的，还是等月底再给你！";
     color: #00b0f0;
 }
 
-.testhxie3::before{
+.e3::before{
     content: "杨娟娟 女cv，（少女音）十七十八岁左右";
     color: #7030a0;
 }
 
-.testhxie31::before{
+.e31::before{
     content: "温柔，看不惯莫晓程被牛大宝欺负";
     color: #7030a0;
 }
 
-.testhxie311::before{
+.e311::before{
     content: "1.	【被牛大宝惹毛了】杨娟娟：（打断，生气）你再这样，我就去告诉老师！";
     color: #7030a0;
 }
 
-.testhlong::before{
+.g::before{
     content: "龙套：";
     color: black;
 }
 
-.testhlong1::before{
+.g1::before{
     content: "医生：女cv，（温柔知性音，御姐音都可以）";
     color: red;
 }
 
-.testhlong11::before{
+.g11::before{
     content: "阐述病情，惋惜的情感";
     color: red;
 }
 
-.testhlong111::before{
+.g111::before{
     content: "1.	【以一种同情的语气对莫辰说】医生：你现在的情况，已经很危险了，如果再不做手术，可能……";
     color: red;
 }
 
-.testhlong2::before{
+.g2::before{
     content: "莫爸爸：男cv，莫辰、莫晓程的爸爸（大叔音）四十多岁的大叔语言比较少，生气就行，对孩子严厉。";
     color: #002060;
 }
 
-.testhlong21::before{
+.g21::before{
     content: "不想与莫家的人有瓜葛，高傲，自私。";
     color: #002060;
 }
 
-.testhlong211::before{
+.g211::before{
     content: "1.	【对儿子的行为特别的失望，更多的是生气】你居然喜欢男人！？（生气）老子养你到这么大，你……你居然喜欢男的！";
     color: #002060;
 }
 
-.testhlong3::before{
+.g3::before{
     content: "莫妈妈：女cv，莫辰、莫晓程的妈妈（尖酸刻薄中年妇女音）三四十左右的女性";
     color: #00b0f0;
 }
 
-.testhlong31::before{
+.g31::before{
     content: "不想与莫家的人有瓜葛，高傲，自私。";
     color: #00b0f0;
 }
 
-.testhlong311::before{
+.g311::before{
     content: "1.	【对莫辰的话】莫妈妈：（冷嘲热讽，有点泼妇的感觉）现在知道来求我了？当初死都要跟着你们那个穷鬼爸，现在他死了，扔下你们两个，就工地上那点儿赔偿金，我都没眼看……";
     color: #00b0f0;
 }
 
-.testhlong4::before{
+.g4::before{
     content: "女老师：女cv，温柔（温柔姐姐音）二十多岁的女性";
     color: #7030a0;
 }
 
-.testhlong411::before{
+.g411::before{
     content: "1.	老师：（呵护小朋友的语气）莫晓程，来读一下你的作文！";
     color: #7030a0;
 }
 
-.testhlong412::before{
+.g412::before{
     content: "2.	老师：（鼓励的语气）晓程，写的不错，大家为莫晓程鼓掌！";
     color: #7030a0;
 }
 
-.testhlong5::before{
+.g5::before{
     content: "小莫晓程：女cv，（正太，少御音）六七岁的小孩";
     color: #00b0f0;
 }
 
-.testhlong511::before{
+.g511::before{
     content: "1.	小莫晓程：（朗诵）哥哥是我的英雄，是我的榜样，我爱我的哥哥！";
     color: #00b0f0;
 }
 
-.testhlong512::before{
+.g512::before{
     content: "2.	小莫晓程：（朗诵）《我的哥哥》我有一个哥哥，他高大威武，是一个很厉害的男人，每当我面临困难时他都会……";
     color: #00b0f0;
 }
 
-.testhlong6::before{
+.g6::before{
     content: "男人：男cv，（中年男性音色）只有两句，三四十岁的中年男性";
     color: #7030a0;
 }
 
-.testhlong611::before{
+.g611::before{
     content: "1.	男人：请问你是莫前辈的儿子吧，（解释）我是他的同事，你能来看一眼你的父亲吗？";
     color: #7030a0;
 }
 
-.testhlong612::before{
+.g612::before{
     content: "2.	男人：（失落）他……已经不在了……";
     color: #7030a0;
 }
 
-.testhlong7::before{
+.g7::before{
     content: "同学1：男cv，（少年音）十七十八岁左右";
     color: #00b0f0;
 }
 
-.testhlong711::before{
+.g711::before{
     content: "1.	【是牛大宝的小跟班】同学1：（小声，提醒）大宝哥，那小子今天居然来学校了！";
     color: #00b0f0;
 }
 
-.testhlong712::before{
+.g712::before{
     content: "2.	【凑八卦】同学1：（忽然想起）大宝哥，你该不会真的把那张照片发出去了吧？";
     color: #00b0f0;
 }
 
-.testhlong8::before{
+.g8::before{
     content: "龙套，同学二：男cv，（少年音）十七十八岁左右";
     color: #7030a0;
 }
 
-.testhlong811::before{
+.g811::before{
     content: "1.	同学二：“不知道”";
     color: #7030a0;
 }
 
-.testhlong9::before{
+.g9::before{
     content: "路人1（尖酸刻薄的女音再来一个）二三十来岁的女人";
     color: #00b0f0;
 }
 
-.testhlong911::before{
+.g911::before{
     content: "1.	路人1：这家伙没钱，到处卖……";
     color: #00b0f0;
 }
 
-.testhlonga::before{
+.ga::before{
     content: "路人2 （假派正义男音 ）二三十来岁的男性";
     color: #7030a0;
 }
 
-.testhlonga11::before{
+.ga11::before{
     content: "1.	路人2：他弟弟可真惨……";
     color: #7030a0;
 }
 
-.testhlongb::before{
+.gb::before{
     content: "路人3 （闲言碎语的中年妇女音）三四十来岁的女性";
     color: #00b0f0;
 }
 
-.testhlongb11::before{
+.gb11::before{
     content: "1.	路人3 （闲言碎语的中年妇女音）三四十来岁的女性";
     color: #00b0f0;
 }
