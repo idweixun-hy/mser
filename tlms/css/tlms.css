@@ -98,6 +98,10 @@ FONT {
     background-color: #FFFFFF;
 }
 
+#tlmsid {
+    padding-right: 5%;
+}
+
 .background-t {
     /*background-image:url('https://www.idweixun.com/tlms/images/tlms.jpg');*/
     background-position: bottom right;
@@ -133,6 +137,7 @@ FONT {
     background-color: #dbd9d9;
     text-align: center;
     border: 1px solid #000000;
+    margin-left: 7%;
 }
 
 #foot {
