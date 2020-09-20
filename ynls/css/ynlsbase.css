@@ -23,7 +23,7 @@ a:hover {
 
 .background-t1 {
 /*    background-image: url('https://www.idweixun.com/ynls/images/ynlsbg1.jpg');*/
-    background-image: url('/ynls/images/ynlsbg1.jpg');
+    background-image: url('http://weixun-image.idweixun.com/ynls/ynlsbg1.jpg');
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -33,7 +33,7 @@ a:hover {
 .background-t2 {
     margin-top: -3px;
 /*    background-image: url('https://www.idweixun.com/ynls/images/ynlsbg2.jpg');*/
-    background-image: url('/ynls/images/ynlsbg2.jpg');
+    background-image: url('http://weixun-image.idweixun.com/ynls/ynlsbg2.jpg');
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;
