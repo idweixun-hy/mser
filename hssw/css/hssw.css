@@ -12,21 +12,13 @@
 }
 
 .background-t1 {
-    background-image: url('http://weixun-image.idweixun.com/hssw/images/hssw1.jpg');
+    background-image: url('http://weixun-image.idweixun.com/hssw/hssw.jpg');
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 100%
 }
 
-.background-t2 {
-    margin-top: -3px;
-    background-image: url('http://weixun-image.idweixun.com/hssw/images/hssw2.jpg');
-    background-position: bottom right;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    height: 100%
-}
 .background-t img {
     opacity: 0;
     filter: alpha(opacity=0);
