@@ -23,7 +23,7 @@ a:hover {
 }
 
 .background-t1 {
-    background-image: url('http://weixun-image.idweixun.com/wngydb/images/wngydbbase.jpg'); 
+    background-image: url('../images/wngydbbase.jpg'); 
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;

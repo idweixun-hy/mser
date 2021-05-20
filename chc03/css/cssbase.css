@@ -23,7 +23,7 @@ a:hover {
 }
 
 .background-t1 {
-    background-image: url('http://weixun-image.idweixun.com/chc03/images/chc03base.jpg'); 
+    background-image: url('../images/chc03base.jpg'); 
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 100% 100%;
