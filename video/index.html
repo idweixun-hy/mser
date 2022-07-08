@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>开源视频播放器-发布页</title>
+    <link rel="stylesheet" type="text/css" href="./home.css"/>
+</head>
+<body>
+<div class="template-2  template-wrap">
+    <div class="t-bg-2"></div>
+    <div class="container">
+        <div class="content">
+            <div class="template-common">
+                <div class="t-icon">
+                    <img src="./app.png">
+                </div>
+                <div class="t-name">
+                    <div class="tit">开源视频播放器</div>
+                    <div class="name-info pc-pwd">
+                        <span id="app-version">version</span>
+                        <span id="app-size">size</span>
+                    </div>
+                </div>
+                <div class="template-btn-wrap">
+                    <a id="app-addr" link="apk的下载链接地址"
+                       class="ms-btn template-btn clearfix pc-pwd down_load">
+                        <span clsss="f1">下载安装（仅安卓可用）</span>
+                    </a>
+                </div>
+                <div class="t-name">
+                    <div class="name-info pc-pwd">
+                        <span>(微信扫码后，请点击右上角选择在浏览器中打开)</span>
+                        <span></span>
+                    </div>
+                </div>
+                <div class="t-icon1 t-icon-img">
+                    <img src="./QR.png">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+<script>
+    //引入jQuery版本
+    function is_weixin() {
+        var ua = navigator.userAgent.toLowerCase();
+        if (ua.match(/MicroMessenger/i) == "micromessenger") {
+            return true;
+        } else {
+            return false;
+        }
+    }// 这个实现是否是在微信打开的，如果是返回true，如果不是，返回false
+    $(function () {
+        var isWeixin = is_weixin();//调用is_weixin函数；获取到值
+        var winHeight = typeof window.innerHeight != 'undefined' ?
+            window.innerHeight : document.documentElement.clientHeight;
+        var weixinTip = $('<div id="weixinTip"><div class="test"><p>请点击右上角,选择"在浏览器中打开"</p><img src="./zhez.png"/></div></div>');
+        if (isWeixin) {
+            $("body").append(weixinTip);
+        }
+        $("#weixinTip").css({
+            "position": "fixed",
+            "left": "0",
+            "top": "0",
+            "height": winHeight,
+            "width": "100%",
+            "z-index": "1000",
+            "background-color": "rgba(0,0,0,0.8)",
+            "filter": "alpha(opacity=80)",
+            "float": "left"
+        });
+        $("#weixinTip div p").css({
+            "text-align": "right",
+            "width": "85%",
+            "margin-top": "10%",
+            "color": "#fff",
+        });
+        $("#weixinTip div").css({
+            "display": "flex",
+            "justify-content": "space-around",
+            "align-items": "center",
+            "padding-left": "4%",
+            "padding-right": "4%"
+
+        })
+        $("#weixinTip div img").css({
+            "text-align": "left",
+            "width": "7%",
+            "height": "7%",
+            "margin-top": "7%",
+            "padding-left": "4%",
+            "padding-right": "4%"
+        })
+        const data = {
+            version: 'V0.0.1',
+            size: '35.4MB',
+            addr: 'https://gitee.com/idweixun/idweixun/attach_files/1060195/download/app-release.apk',
+        };
+        $("#app-version").html(data.version);
+        $("#app-size").html(data.size);
+        $("#app-addr").attr('href', data.addr);
+    })
+</script>
+</body>
+</html>
