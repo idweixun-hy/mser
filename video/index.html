@@ -55,7 +55,7 @@
         var isWeixin = is_weixin();//调用is_weixin函数；获取到值
         var winHeight = typeof window.innerHeight != 'undefined' ?
             window.innerHeight : document.documentElement.clientHeight;
-        var weixinTip = $('<div id="weixinTip"><div class="test"><p>请点击右上角,选择"在浏览器中打开"</p><img src="./zhez.png"/></div></div>');
+        var weixinTip = $('<div id="weixinTip"><img src="./zhez.png"/></div>');
         if (isWeixin) {
             $("body").append(weixinTip);
         }
@@ -66,36 +66,23 @@
             "height": winHeight,
             "width": "100%",
             "z-index": "1000",
-            "background-color": "rgba(0,0,0,0.8)",
+            "background-color": "rgba(48,48,48,0.8)",
             "filter": "alpha(opacity=80)",
             "float": "left"
         });
-        $("#weixinTip div p").css({
-            "text-align": "right",
-            "width": "85%",
-            "margin-top": "10%",
-            "color": "#fff",
-        });
-        $("#weixinTip div").css({
-            "display": "flex",
-            "justify-content": "space-around",
-            "align-items": "center",
-            "padding-left": "4%",
-            "padding-right": "4%"
-
-        })
-        $("#weixinTip div img").css({
+        $("#weixinTip img").css({
+            "opacity": "0.8",
             "text-align": "left",
-            "width": "7%",
-            "height": "7%",
-            "margin-top": "7%",
-            "padding-left": "4%",
-            "padding-right": "4%"
+            "left": "0",
+            "top": "0",
+            "height": winHeight,
+            "width": "100%",
+            "z-index": "1000",
         })
         const data = {
             version: 'V0.0.1',
             size: '35.4MB',
-            addr: 'https://gitee.com/idweixun/idweixun/attach_files/1060195/download/app-release.apk',
+            addr: './app-release.apk',
         };
         $("#app-version").html(data.version);
         $("#app-size").html(data.size);
