@@ -7,11 +7,12 @@
 }
 
 #t-app {
-    margin: 0 auto;
+    margin: -280px auto 0 -55px;
     background-color: #FFFFFF;
 }
 
 .background-t1 {
+    margin-top: -210px;
     background-image: url('../image/index.jpg');
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -49,6 +50,7 @@
 
 .btb {
     /* background-color: #e27f48; */
+    margin-top: -600px;
     text-align: center;
     border: 3px solid #000000;
 }
