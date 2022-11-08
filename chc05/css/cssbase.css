@@ -1,0 +1,88 @@
+a:link {
+    color: #000000;
+    text-decoration: underline;
+    -webkit-text-stroke: 0.5px #000000;
+    text-stroke: 0.5px #000000;
+    text-shadow: 1px 1px 0px #000000;
+}
+
+a:visited {
+    color: #393837;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #8245b5;
+    text-decoration: underline;
+}
+
+.fount {
+    face: "微软雅黑";
+    color: #000000;
+    font-size: 18px;
+}
+
+.background-t1 {
+    background-image: url('../images/chc05base.jpg');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%
+}
+
+.bs {
+    border: 3px solid #000000;
+}
+
+.btb {
+    /* background-color: #e27f48; */
+    text-align: center;
+    border: 3px solid #000000;
+}
+
+#foot {
+    text-align: left;
+    padding-left: 40px;
+}
+
+.flfp {
+    text-align: left;
+    padding-left: 40px;
+}
+
+.lfp {
+    margin-left: 20px;
+    line-height: 20px;
+    font-size: 18px;
+    color: #000000;
+}
+
+.lfp > a:link {
+    color: #000000;
+    text-decoration: underline;
+    -webkit-text-stroke: 0px #000000;
+    text-stroke: 0px #000000;
+    text-shadow: 0px 0px 0px #000000;
+}
+
+.lfp > a:hover {
+    color: #cabf28;
+    text-decoration: underline;
+    -webkit-text-stroke: 0.5px #cabf28;
+    text-stroke: 0.5px #cabf28;
+    text-shadow: 0.5px 0.5px 0px #cabf28;
+}
+
+.lfp > a:visited {
+    color: #000000;
+    text-decoration: underline;
+    -webkit-text-stroke: 0px #000000;
+    text-stroke: 0px #000000;
+    text-shadow: 0px 0px 0px #000000;
+}
+
+.plfm {
+    line-height: 22px;
+    font-size: 22px;
+    margin-top: -5px;
+}
