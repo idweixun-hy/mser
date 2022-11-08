@@ -7,11 +7,13 @@
 }
 
 #t-app {
-    margin: 0 auto;
+    margin-left: -150px;
+    margin-top: -260px;
     background-color: #FFFFFF;
 }
 
 .background-t1 {
+    margin-top: -210px;
     background-image: url('../images/chc05.jpg');
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -48,6 +50,7 @@
 }
 
 .btb {
+    margin-top: -780px;
     background-color: #E9DCB9;
     text-align: center;
     border: 3px solid #000000;
